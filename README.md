@@ -29,3 +29,5 @@ source ~/.zshrc
 ## Building the Project
 Once you've set the environment variable, you can open and build the project using the IDE of your choice.
 
+## License
+This project is licensed under the LGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
